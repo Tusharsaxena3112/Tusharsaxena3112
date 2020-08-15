@@ -14,6 +14,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src="https://raw.githubusercontent.com/shsarv/shsarv/master/Sourcerer.jpg" alt="Sourcerer logo" width="22px">][Sourcerer]
 
 <br />
 
@@ -43,7 +44,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tusharsaxena3112&show_icons=true&hide_border=false" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tusharsaxena3112&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -52,3 +53,4 @@
 [website]: https://tusharsaxena3112.github.io/
 [instagram]: https://www.instagram.com/tushar__.____/
 [linkedin]: https://www.linkedin.com/in/tushar-saxena-6179261a4/
+[Sourcerer]:https://sourcerer.io/tusharsaxena3112
