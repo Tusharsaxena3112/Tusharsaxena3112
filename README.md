@@ -1,5 +1,5 @@
 ### Hi there, I'm Tushar Saxena👋
-![](https://komarev.com/ghpvc/?username=Tusharsaxena3112&color=Green&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Tusharsaxena3112&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 
 ## I'm a Student, and a Future Developer!
@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tusharsaxena3112&show_icons=true&hide_border=true&theme=hightcontrast" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Tusharsaxena3112&show_icons=true&hide_border=true" />
 
 </details>
 
