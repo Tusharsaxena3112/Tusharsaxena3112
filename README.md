@@ -1,6 +1,4 @@
-### Hi there, I'm Tushar Saxena  [Tusharsaxena3112][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tusharsaxena3112.github.io/)
+### Hi there, I'm Tushar Saxena 👋
 
 
 ## I'm a Student, and a Future Developer!
