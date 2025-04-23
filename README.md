@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Tusharsaxena3112&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-## I'm a Student, and a Future Developer!
+## I am a Full stack developer!
 
 - 🔭 I’m currently working on my skills!
 - 🌱 I’m currently learning everything🤣
